@@ -1,0 +1,10 @@
+article {
+    background-color: #fc6161;
+    border: 2px solid black;
+    display: flex;
+    height: 30px;
+    flex-direction: row;
+    margin: 10px 2px;
+    justify-content:space-around;
+    align-items: center;
+}
